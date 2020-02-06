@@ -19,7 +19,7 @@ public class HomeWork1 {
         positiveNegative(-10);
         System.out.println(isNegative(-10));
         System.out.println(isNegative(10));
-        printName("Анастасия");
+        printName("Анастасия Горохова");
         whatIsYear(2020);
 
     }
