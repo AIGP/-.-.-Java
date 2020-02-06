@@ -1,6 +1,6 @@
 import java.util.Calendar;
 import java.util.GregorianCalendar;
-
+///////////////////////////////////
 public class HomeWork1 {
     public static void main(String[] args) {
         byte val1 = -120;
@@ -66,5 +66,4 @@ public class HomeWork1 {
         else
             System.out.println("Год не високосный");
     }
-
 }
